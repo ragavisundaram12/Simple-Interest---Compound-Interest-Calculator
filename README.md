@@ -1,15 +1,15 @@
-🚀 DAY 5/50 - Java Mini Project Challenge
-🔹 Project: Number Guessing Game 🎯
-🔹 Description: Developed a fun interactive game where the user has to guess a randomly generated number. The program gives hints (higher/lower) until the user guesses correctly!
+🚀 DAY 4/50 - Java Mini Project Challenge
+🔹 Project: Simple & Compound Interest Calculator
+🔹 Description: Created a Java program that calculates Simple Interest (SI) and Compound Interest (CI) based on user input. The program takes the principal amount, rate of interest, and time period to compute accurate results.
 
-💻 Tech Used: Java (Random, Loops, Conditionals, Scanner)
+💻 Tech Used: Java (Scanner, Math.pow, Conditionals)
 
 ✅ What I Learned:
 
-Generating random numbers using Random class
+Using Scanner for user input
 
-Implementing loops for repeated attempts
+Applying mathematical formulas in Java
 
-Providing hints based on user input
+Using Math.pow() for exponentiation
 
-Handling user input efficiently
+Structuring a menu-driven program
